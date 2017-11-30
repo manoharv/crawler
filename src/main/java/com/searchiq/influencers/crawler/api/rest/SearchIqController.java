@@ -14,7 +14,7 @@ import com.searchiq.influencers.crawler.api.model.FaceBookUser;
 import com.searchiq.influencers.crawler.services.CrawlerService;
 
 @RestController
-@RequestMapping("/searchiq")
+@RequestMapping("/facebook")
 public class SearchIqController {
 	
 	@Autowired
